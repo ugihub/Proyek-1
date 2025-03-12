@@ -56,17 +56,18 @@
 
             <!-- Bagian Kanan: Gambar -->
             <div class="flex-1">
-                <img src="https://img.freepik.com/free-vector/app-monetization-concept-illustration_114360-7404.jpg?t=st=1740565995~exp=1740569595~hmac=c34de0309c6ae2dab93fd2f45a1f288b06438b1e85fa2573a345bc25547ad69a&w=1800" alt="Sample Image" class="max-w-full rounded">
+                <img src="https://img.freepik.com/free-vector/app-monetization-concept-illustration_114360-7404.jpg?t=st=1740565995~exp=1740569595~hmac=c34de0309c6ae2dab93fd2f45a1f288b06438b1e85fa2573a345bc25547ad69a&w=1800"
+                    alt="Sample Image" class="max-w-full rounded">
             </div>
         </div>
     </main>
 
     <!-- 3 Kotak Berdampingan -->
-    <section class="bg-gray-200 py-12">
+    <section class="py-6">
         <div
             class="container mx-auto flex flex-col md:flex-row justify-between items-center px-4 space-y-6 md:space-y-0 md:space-x-6">
             <!-- Kotak 1 -->
-            <div class="bg-white shadow-lg rounded p-6 flex-1 text-center">
+            <div class="bg-white shadow-2xl rounded p-6 flex-1 text-center">
                 <h2 class="text-xl font-bold text-gray-800 mb-4">Kotak 1</h2>
                 <p class="text-gray-600">
                     Ini adalah deskripsi singkat untuk kotak pertama.
@@ -74,7 +75,7 @@
             </div>
 
             <!-- Kotak 2 -->
-            <div class="bg-white shadow-lg rounded p-6 flex-1 text-center">
+            <div class="bg-white shadow-2xl rounded p-6 flex-1 text-center hover:w-60">
                 <h2 class="text-xl font-bold text-gray-800 mb-4">Kotak 2</h2>
                 <p class="text-gray-600">
                     Ini adalah deskripsi singkat untuk kotak kedua.
@@ -82,7 +83,7 @@
             </div>
 
             <!-- Kotak 3 -->
-            <div class="bg-white shadow-lg rounded p-6 flex-1 text-center">
+            <div class="bg-white shadow-2xl rounded p-6 flex-1 text-center">
                 <h2 class="text-xl font-bold text-gray-800 mb-4">Kotak 3</h2>
                 <p class="text-gray-600">
                     Ini adalah deskripsi singkat untuk kotak ketiga.
