@@ -67,28 +67,28 @@
         <div
             class="container mx-auto flex flex-col md:flex-row justify-between items-center px-4 space-y-6 md:space-y-0 md:space-x-6">
             <!-- Kotak 1 -->
-            <div class="bg-white shadow-2xl rounded p-6 flex-1 text-center">
+            <a href="#" class="bg-white shadow-2xl rounded p-6 flex-1 text-center hover:bg-blue-300 ">
                 <h2 class="text-xl font-bold text-gray-800 mb-4">Kotak 1</h2>
                 <p class="text-gray-600">
                     Ini adalah deskripsi singkat untuk kotak pertama.
                 </p>
-            </div>
+            </a>
 
             <!-- Kotak 2 -->
-            <div class="bg-white shadow-2xl rounded p-6 flex-1 text-center hover:w-60">
+            <a href="#" class="bg-white shadow-2xl rounded p-6 flex-1 text-center hover:bg-blue-300 ">
                 <h2 class="text-xl font-bold text-gray-800 mb-4">Kotak 2</h2>
                 <p class="text-gray-600">
                     Ini adalah deskripsi singkat untuk kotak kedua.
                 </p>
-            </div>
+            </a>
 
             <!-- Kotak 3 -->
-            <div class="bg-white shadow-2xl rounded p-6 flex-1 text-center">
+            <a href="#" class="bg-white shadow-2xl rounded p-6 flex-1 text-center hover:bg-blue-300">
                 <h2 class="text-xl font-bold text-gray-800 mb-4">Kotak 3</h2>
-                <p class="text-gray-600">
+                <p class="text-gray-600 ">
                     Ini adalah deskripsi singkat untuk kotak ketiga.
                 </p>
-            </div>
+            </a>
         </div>
 </body>
 
